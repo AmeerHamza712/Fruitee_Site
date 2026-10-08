@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Fruitee_Site/static/css/main.50da6163.css",
+    "main.js": "/Fruitee_Site/static/js/main.878e3bc0.js",
+    "static/js/453.01e94696.chunk.js": "/Fruitee_Site/static/js/453.01e94696.chunk.js",
+    "static/media/fruit.png": "/Fruitee_Site/static/media/fruit.95aaaedef6d0f2f2700c.png",
+    "static/media/banner-bg.jpg": "/Fruitee_Site/static/media/banner-bg.8b3eba470670ec83e0d2.jpg",
+    "static/media/fruitplate.png": "/Fruitee_Site/static/media/fruitplate.9b326f9b0cdbbc5b87b8.png",
+    "static/media/apple.png": "/Fruitee_Site/static/media/apple.bfe5155197370c39c0cf.png",
+    "static/media/avocado.png": "/Fruitee_Site/static/media/avocado.6e497c8f6b9dd0670d0c.png",
+    "static/media/leaf.png": "/Fruitee_Site/static/media/leaf.2494492049ec270e2011.png",
+    "static/media/cherry.png": "/Fruitee_Site/static/media/cherry.a94d268ba2af72466766.png",
+    "static/media/orange.png": "/Fruitee_Site/static/media/orange.540c650ab19583b0adb2.png",
+    "static/media/logo.svg": "/Fruitee_Site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Fruitee_Site/index.html",
+    "main.50da6163.css.map": "/Fruitee_Site/static/css/main.50da6163.css.map",
+    "main.878e3bc0.js.map": "/Fruitee_Site/static/js/main.878e3bc0.js.map",
+    "453.01e94696.chunk.js.map": "/Fruitee_Site/static/js/453.01e94696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50da6163.css",
+    "static/js/main.878e3bc0.js"
+  ]
+}
